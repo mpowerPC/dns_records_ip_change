@@ -1,0 +1,3 @@
+[submodule "cloudflare_dns_api"]
+	path = cloudflare_dns_api
+	url = https://github.com/mpowerPC/cloudflare_dns_api.git
