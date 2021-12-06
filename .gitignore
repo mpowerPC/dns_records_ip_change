@@ -133,3 +133,6 @@ dmypy.json
 
 # credentials
 credentials.json
+
+# logging
+logging.ini
